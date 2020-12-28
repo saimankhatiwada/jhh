@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CBBE0487-478A-0EE5-717A-F2A73D976CAB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Sirak",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
